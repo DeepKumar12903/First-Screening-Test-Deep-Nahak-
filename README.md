@@ -1,1 +1,1 @@
-# First-Screening-Test-Deep-Nahak-
+Software used - Figma
